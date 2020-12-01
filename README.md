@@ -1,4 +1,4 @@
-# bases-de-datos
+/bases-de-datos/
 create table locales(
     mercancia varchar(50) primary key,
     capacidad varchar(20),
